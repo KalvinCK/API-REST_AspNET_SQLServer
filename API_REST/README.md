@@ -1,0 +1,1 @@
+API Rest criada usando AspNet com o Entity framework e Sqlserver como banco.
